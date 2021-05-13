@@ -1,0 +1,424 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navigation-container {
+    background-color: white;
+    overflow: hidden;
+}
+
+.logo-container img{
+    width: 100px;
+}
+
+.side-container {
+    font-size: 30px;
+    margin-left: 2px;
+}
+
+.laptop {
+    display: none;
+}
+
+/* main-container */
+
+.main-container {
+    overflow: hidden;
+}
+
+.main-item-1 {
+    background-color: lightpink;
+    background-image: url(/img/1.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-item-2 {
+    background-color: lightslategrey;
+    background-image: url(/img/2.png);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-item-3 {
+    background-color: skyblue;
+    background-image: url(/img/3.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-container h2 {
+    padding: 1rem 0;
+    color: white;
+    text-align: center;
+}
+
+.main-container i {
+    padding: 1.5rem;
+    color: white;
+    font-size: 20px;
+    margin-left: -12.5px;
+}
+
+.main-container p {
+    padding: 1rem;
+    color: white;
+    margin-top: -1rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+/* outerbox */
+
+.outerbox {
+    overflow: hidden;
+
+}
+.sliderbox {
+    position: relative;
+    width: 2075px;
+    animation-name: Jamal;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+
+}
+
+.sliderbox img {
+    float: left;
+    background-color: violet;
+    height: 400px;
+}
+
+@keyframes Jamal {
+    from{ left: 0px;}
+    to{left: -1245px;}
+}
+
+.outerbox-1 {
+    overflow: hidden;
+
+}
+.sliderbox-1 {
+    position: relative;
+    width: 2075px;
+    animation-name: Jamal;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+
+}
+
+.sliderbox-1 img {
+    float: left;
+    background-color: whitesmoke;
+    height: 400px;
+}
+
+@keyframes Jamal {
+    from{ left: 0px;}
+    to{left: -1245px;}
+}
+
+.item-update {
+    color: white;
+    background-color: black;
+    padding: 2rem 0;
+    overflow: hidden;
+}
+
+.item-update h1{
+    font-size: 40px;
+    font-weight: 800;
+    padding: 2rem 0;
+}
+
+.item-update p{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.item-update a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: whitesmoke;
+    padding: 1rem 0;
+}
+
+.item-update i {
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+
+/* main-item */
+
+.main-item-11 {
+    background-color: hotpink;
+    background-image: url(/img/11.png);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-item-12 {
+    background-color: gainsboro;
+    background-image: url(/img/12.png);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-item-13 {
+    background: yellowgreen;
+    background-image: url(/img/13.png);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+/* shopAll */
+
+.shopAll {
+    overflow: hidden;
+    padding: 4rem 0 2rem 0;
+    background: white;
+}
+
+.mobileonly.categories h5{
+    color: black;
+}
+
+.mobileonly.designers h5 {
+    color: black;
+}
+
+.mobileonly.categories p{
+    color: #333;
+}
+
+.mobileonly.designers p {
+    color: #333;
+}
+
+.tablet-laptop {
+    display: none;
+}
+
+.shopAll h5 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: left;
+}
+
+.shopAll .categories p{
+    font-weight: 400;
+    font-size: 16px;
+    color: black ;
+    text-align: left;
+    margin-bottom: 1px
+}
+
+.shopAll .designers p{
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    margin-bottom: 1px
+}
+
+/* shop-items */
+
+.shop-items {
+    overflow: hidden;
+}
+
+.shop-item-1 {
+    background-color: whitesmoke;
+    background-image: url(/img/1.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-2 {
+    background-color: whitesmoke;
+    background-image: url(/img/2.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-3 {
+    background-color: whitesmoke;
+    background-image: url(/img/3.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-4 {
+    background-color: whitesmoke;
+    background-image: url(/img/4.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-5 {
+    background-color: whitesmoke;
+    background-image: url(/img/5.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-6 {
+    background-color: whitesmoke;
+    background-image: url(/img/6.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-7 {
+    background-color: whitesmoke;
+    background-image: url(/img/7.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-8 {
+    background-color: whitesmoke;
+    background-image: url(/img/11.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-9 {
+    background-color: whitesmoke;
+    background-image: url(/img/12.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-10 {
+    background-color: whitesmoke;
+    background-image: url(/img/13.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-11 {
+    background-color: whitesmoke;
+    background-image: url(/img/14.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+.shop-item-12 {
+    background-color: whitesmoke;
+    background-image: url(/img/15.png);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    margin: 5px 0;
+    
+}
+
+
+.shopAll h2 {
+    padding: 1rem 0;
+    margin-left: 1.25rem;
+    color: white;
+}
+
+.shopAll i {
+    padding: 1.5rem;
+    font-size: 20px;
+    margin-left: -12.5px;
+    color: white;
+}
+
+.shopAll p {
+    padding: 1rem;
+    margin-top: -1rem;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+.tablet, .laptop {
+    display: none;
+}
+
+/* footer */
+
+.footer {
+    overflow: hidden;
+}
+
+.footer .logo-container img{
+    width: 100px;
+    background: white;
+}
+
+.footer li {
+    list-style: none;
+    font: 20px;
+    margin: 5px 0;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer i {
+    font-size: 30px;
+    margin: 0 2.5px;
+    padding-left: 1.5rem;
+    padding-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* copyrights */
+
+.copyrights {
+    overflow: hidden;
+    width: 80%;
+    margin: 1rem auto;
+}
