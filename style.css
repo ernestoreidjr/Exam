@@ -241,17 +241,17 @@
 
 .shop-item-1 {
     background-color: whitesmoke;
-    background-image: url(/img/1.png);
+    background-image: url(img/1.png);
     height: 400px;
     width: 100%;
     background-size: cover;
-    margin: 5px 0;
+    margin: 5px 0;  
     
 }
 
 .shop-item-2 {
     background-color: whitesmoke;
-    background-image: url(/img/2.png);
+    background-image: url(img/2.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -261,7 +261,7 @@
 
 .shop-item-3 {
     background-color: whitesmoke;
-    background-image: url(/img/3.png);
+    background-image: url(img/3.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -271,7 +271,7 @@
 
 .shop-item-4 {
     background-color: whitesmoke;
-    background-image: url(/img/4.png);
+    background-image: url(img/4.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -281,7 +281,7 @@
 
 .shop-item-5 {
     background-color: whitesmoke;
-    background-image: url(/img/5.png);
+    background-image: url(img/5.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -291,7 +291,7 @@
 
 .shop-item-6 {
     background-color: whitesmoke;
-    background-image: url(/img/6.png);
+    background-image: url(img/6.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -301,7 +301,7 @@
 
 .shop-item-7 {
     background-color: whitesmoke;
-    background-image: url(/img/7.png);
+    background-image: url(img/7.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -311,7 +311,7 @@
 
 .shop-item-8 {
     background-color: whitesmoke;
-    background-image: url(/img/11.png);
+    background-image: url(img/11.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -321,7 +321,7 @@
 
 .shop-item-9 {
     background-color: whitesmoke;
-    background-image: url(/img/12.png);
+    background-image: url(img/12.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -331,7 +331,7 @@
 
 .shop-item-10 {
     background-color: whitesmoke;
-    background-image: url(/img/13.png);
+    background-image: url(img/13.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -341,7 +341,7 @@
 
 .shop-item-11 {
     background-color: whitesmoke;
-    background-image: url(/img/14.png);
+    background-image: url(img/14.png);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -351,7 +351,7 @@
 
 .shop-item-12 {
     background-color: whitesmoke;
-    background-image: url(/img/15.png);
+    background-image: url(img/15.png);
     height: 400px;
     width: 100%;
     background-size: cover;
