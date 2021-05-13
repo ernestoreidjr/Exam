@@ -188,7 +188,7 @@
     .main-item-1 {
         padding: 0;
         background-color: lightpink;
-        background-image: url(/img/1.png);
+        background-image: url(img/1.png);
         height: 460px;
         width: 50%;
         background-size: contain;
@@ -200,7 +200,7 @@
     .main-item-2 {
         padding: 0;
         background-color: lightslategrey;
-        background-image: url(/img/2.png);
+        background-image: url(img/2.png);
         height: 230px;
         width: 100%;
         background-size: contain;
@@ -212,7 +212,7 @@
     .main-item-3 {
         padding: 0;
         background-color: skyblue;
-        background-image: url(/img/3.png);
+        background-image: url(img/3.png);
         height: 230px;
         width: 100%;
         background-size: contain;
@@ -323,7 +323,7 @@
     .main-item-11 {
         padding: 0;
         background-color: lightpink;
-        background-image: url(/img/11.png);
+        background-image: url(img/11.png);
         height: 460px;
         width: 50%;
         background-size: contain;
@@ -335,7 +335,7 @@
     .main-item-12 {
         padding: 0;
         background-color: lightslategrey;
-        background-image: url(/img/12.png);
+        background-image: url(img/12.png);
         height: 230px;
         width: 100%;
         background-size: contain;
@@ -347,7 +347,7 @@
     .main-item-13 {
         padding: 0;
         background-color: skyblue;
-        background-image: url(/img/13.png);
+        background-image: url(img/13.png);
         height: 230px;
         width: 100%;
         background-size: contain;
